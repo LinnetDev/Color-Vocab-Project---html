@@ -1,0 +1,42 @@
+img {
+    height: 200px;
+    width: 200px;
+}
+
+.color-title{
+    font-weight: normal;
+}
+
+.description{
+    font-weight: lighter;
+    font-style: italic;
+}
+
+
+
+#blue{
+    color:blue;
+}
+ 
+#green{
+    color:green;
+}
+
+#grey{
+    color:grey;
+}
+
+#violet{
+    color:violet;
+}
+
+#red{
+    color:red;
+}
+
+#orange{
+    color:orange;
+}
+
+
+
